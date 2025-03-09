@@ -45,7 +45,8 @@ To install and run the app locally, follow these steps:
 - **Enhanced Features**: Future updates may include real-time collaboration on tasks and project sharing.
 ## Video Overview
 Check out our short video demonstration of the Manager project:
-[Watch the Demo](<https://youtu.be/h17zB3Tvqqc?si=oUYRSsGz9yyICX3X>)
+
+[Watch the Demo](<https://youtu.be/_8dskznq1hE?si=g2u0qHO7ZCajhj1b>)
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these guidelines:
