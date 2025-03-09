@@ -46,7 +46,7 @@ To install and run the app locally, follow these steps:
 ## Video Overview
 Check out our short video demonstration of the Manager project:
 
-[Watch the Demo](<[https://youtu.be/9q2j2m2p8qU?si=0bc6UL3xB_Qos60p]>)
+[Watch the Demo](<https://youtu.be/9q2j2m2p8qU?si=0bc6UL3xB_Qos60p>)
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these guidelines:
