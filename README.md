@@ -31,6 +31,7 @@ To install and run the app locally, follow these steps:
 ## Features
 **Onboarding**
 - A smooth onboarding experience to help users get accustomed to the app’s functionalities.
+
 **Task Management**
 - **Projects**: Create, read, and delete projects, each containing multiple sections.
 - **Sections**: Manage sections within a project with options to create, read, and delete.
